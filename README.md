@@ -11,3 +11,4 @@ The best things about penguins are:
 - [x] Cool outfits
 - [] Can eat lots of fish
 - [] Very dapper
+- [] Coat stays shiny at all times
