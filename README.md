@@ -6,4 +6,8 @@ This is a simple readme file in a repository which is being used to practice pul
 
 Penguins and flamingos are the best feathered animals.
 
-Warning: Do not attempt to feed candy to penguins or flamingos. Doing so will not transform them into super-birds.
+The best things about penguins are:
+
+- [x] Cool outfits
+- [] Can eat lots of fish
+- [] Very dapper
