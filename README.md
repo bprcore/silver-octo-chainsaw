@@ -12,4 +12,5 @@ Many remarkable feathered animals exist, but penguins are the coolest.
 
 Warning: Do not attempt to feed candy to birds of any kind.
 
+### Sartorial Advice
 Penguins would look cool in little bowties.
