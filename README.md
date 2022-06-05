@@ -19,3 +19,6 @@ The best things about penguins are:
 
 ### Warning
 Do not feed candy to birds.
+
+### Sartorial Advice
+Penguins would look cool in little bowties.
