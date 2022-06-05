@@ -2,9 +2,11 @@
 Practice managed repository
 or, "A Tail of Two Birds"
 
+## Purpose
+
 This is a simple readme file in a repository which is being used to practice pull requests.
 
-Penguins and flamingos are the best feathered animals.
+Many remarkable feathered animals exist, but penguins are the coolest.
 
 The best things about penguins are:
 
