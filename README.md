@@ -6,7 +6,7 @@ or, "A Tail of Two Birds"
 
 This is a simple readme file in a repository which is being used to practice pull requests.
 
-Many remarkable feathered animals exist, but of them all, penguins are the coolest.
+Many remarkable feathered animals exist, but penguins are the coolest.
 
 ### Note
 
