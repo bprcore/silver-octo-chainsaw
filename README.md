@@ -16,3 +16,6 @@ The best things about penguins are:
 - [] Coat stays shiny at all times
 - [] Make neat noises from ice floes
 - [] Swim in punch bowl at parties
+
+### Warning
+Do not feed candy to birds.
