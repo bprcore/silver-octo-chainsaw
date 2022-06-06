@@ -15,6 +15,7 @@ The best things about penguins are:
 - [ ] Very dapper
 - [ ] Coat stays shiny at all times
 - [ ] Make neat noises from ice floes
+- [ ] Waggle wings while walking
 - [ ] Swim in punch bowl at parties
 
 ### Sartorial Directions
