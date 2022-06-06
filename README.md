@@ -11,11 +11,11 @@ Many remarkable feathered animals exist, but penguins are the coolest.
 The best things about penguins are:
 
 - [x] Cool outfits
-- [] Can eat lots of fish
-- [] Very dapper
-- [] Coat stays shiny at all times
-- [] Make neat noises from ice floes
-- [] Swim in punch bowl at parties
+- [ ] Can eat lots of fish
+- [ ] Very dapper
+- [ ] Coat stays shiny at all times
+- [ ] Make neat noises from ice floes
+- [ ] Swim in punch bowl at parties
 
 ### Sartorial Advice
 Penguins would look cool in little bowties.
