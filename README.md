@@ -18,7 +18,7 @@ The best things about penguins are:
 - [] Swim in punch bowl at parties
 
 ### Sartorial Advice
-Penguins would look cool in little bowties.
+Penguins would look cool in little bowties. They could also wear tiny top-hats.
 
 ### Note
 Warning: Do not attempt to feed candy to birds of any kind.
